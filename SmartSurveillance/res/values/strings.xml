@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Smart Surveillance</string>
+    <string name="app_name">Smart Surveillance</string>
+    <string name="startbtnlabel">Start</string>
+    <string name="phone">Phone</string>
+    <string name="message">Message</string>
+    <string name="empty_phone_sms_field">please provide phone number &amp; message.</string>
+    <string name="aboutbtnlabel">About</string>
+    <string name="helpbtnlabel">Help</string>
+
+</resources>
